@@ -50,5 +50,13 @@ Customer behavior, trends, and business opportunities.
 
 ## Dashboard Preview 
 
+### Executive Summary 
+![Executive Summary](Dashboard_Screenshots/executive_summary.png)
+
+### Product Insights 
+![Product Insights](Dashboard_Screenshots/products_insights.png)
+
+### Customer & Growth Insights 
+![Customer & Growth Inisghts](Dashboard_Screenshots/customer_growth_insights.png)
 
 
